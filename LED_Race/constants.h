@@ -5,6 +5,6 @@
 #define HIGHSPEED 3
 
 #define NUM_LEDS 300
-#define LED_PIN 4
-#define PLAYER1_PIN 6
+#define LED_PIN A0
+#define PLAYER1_PIN 5
 #define PLAYER2_PIN 7
